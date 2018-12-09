@@ -14,9 +14,9 @@ I describe the implementation and the issues I run into while working on it in [
 Install [Tensorflow v1.1.0rc1](https://www.tensorflow.org/versions/r1.1/install/), [Sonnet v1.1](https://github.com/deepmind/sonnet/tree/3fd7d9d342d9683df83a44ebd048ef0d5668266b) and the following dependencies
  (using `pip install -r requirements.txt` (preferred) or `pip install [package]`):
 * matplotlib==1.5.3
-* numpy==1.12.1
 * attrdict==2.0.0
 * scipy==0.18.1
+* pillow==5.3.0
 
 ## Sample Results
 
